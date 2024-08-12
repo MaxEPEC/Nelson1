@@ -1,7 +1,9 @@
 # Nelson1
 
-1 Tengo que bajarme el mapa de ArcGIS directamente como un .geojson 
-2 luego subo esa capa acá a github 
+1 Tengo que bajarme el mapa de ArcGIS directamente como un .geojson
+
+2 luego subo esa capa acá a github
+
 3 luego desde el main en github, entro al archivo y me fijo si me deja ver la opción de verlo RAW, hago click copio el link y pego ese link en powerbi -> iconMapV3 -> GeoJSON -> URL.
 
 4 en caso que NO me deje hacer click en RAW, simplemente copiar el final del nomrbe del link donde estoy parado y en el link de abajo, reemplazar [NOMBRE] con el nombre del archivo que figure en el link de donde estoy parado o sea la última parte. https://raw.githubusercontent.com/MaxEPEC/Power-BI/main/[NOMBRE]
